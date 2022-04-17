@@ -1,6 +1,6 @@
 # Python_api_challenge
 
-![Header](https://github.com/yaf978/Python_api_challenge/blob/main/banner.jpg)
+![Header](https://github.com/yaf978/Python_api_challenge/blob/main/National_Weather_Service_radar_mosaic_loop.jpg)
 Two projects that use API to study and analyze  weather in multiple cities 
 
 # WeatherPy:
