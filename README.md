@@ -8,10 +8,10 @@ Two projects that use API to study and analyze  weather in multiple cities
 Analyis
 
 
-* There is a strong correlation between latitude and maximum temperature. As the latitude increases the temperature goes down. Low latitude equals to high temperatures. There is no correlation between latitude and humidity, latitude and cloudiness, and latitude and wind speed.
-* Cities closer to equator have high temperatures. This applies to cities closer to the equator in northern and southern hamispheres. The Humidity is constant at 67% in the northern hemisphere.
-* No trends were seen between latitude and cloudiness/wind speed between both of the hemisphere. The wind speed is very low across both of the hemispheres.
-
+* There is a strong correlation between latitude and maximum temperature. As the latitude increases the temperature goes down. Low latitude equals to high temperatures.
+* There is no correlation between latitude and humidity, latitude and cloudiness,and latitude and wind speed.
+* Cities closer to equator have high temperatures. 
+* the relationship between wind speed (mph), and latitude showed that the lower wind speed when the cities closer to the equater (latitude 0), and somehow the wind speed increase for the cities farther from the equater
 
 ![alt text](https://github.com/yaf978/Python_api_challenge/blob/main/WeatherPy/output_data/latitude_vs_humidity.png)
 ![alt text](https://github.com/yaf978/Python_api_challenge/blob/main/WeatherPy/output_data/latitude_vs_Cloudiness.png)
